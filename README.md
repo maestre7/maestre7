@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Cover](./img/Data-Science.png)
+
 ### Languages and Tools :
 <div>
   &nbsp;<img src="./img/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
