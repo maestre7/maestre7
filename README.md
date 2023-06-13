@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](./img/Data-Science.png)
+<!-- ![Cover](./img/Data-Science.png) -->
+
+###
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maestre7&show_icons=true&theme=dark)](https://github.com/maestre7)
+
+
 
 ### Languages and Tools :
 <div>
@@ -52,3 +58,7 @@ Here are some ideas to get you started:
  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) &nbsp;
          
 </div>
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestre7&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/maestre7)
