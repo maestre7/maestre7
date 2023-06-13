@@ -16,9 +16,7 @@
   &nbsp;<img src="./img/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>
   &nbsp;<img src="./img/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>
   &nbsp;<img src="./img/selenium-original.svg" title="Selenium" alt="Selenium" width="60" height="60"/>
-  &nbsp;<img src="./img/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>
-
-  &nbsp;<img src="./img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
+  &nbsp;<img src="./img/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> &nbsp;<img src="./img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
   &nbsp;<img src="./img/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60"/>
   &nbsp;<img src="./img/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>
   &nbsp;<img src="./img/react-original-wordmark.svg"  title="React" alt="React" width="60" height="60"/>
