@@ -22,19 +22,19 @@ Here are some ideas to get you started:
   <img src="./img/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
   <img src="./img/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="./img/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-
+  <br />
   <img src="./img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="./img/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="./img/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="./img/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>
   <img src="./img/tailwindcss-original-wordmark.svg"  title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
-
+  <br />
   <img src="./img/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
   <img src="./img/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>
   <img src="./img/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="./img/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="./img/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
-
+  <br />
   <img src="./img/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="./img/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="./img/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
