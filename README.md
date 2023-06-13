@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 <!-- ![Cover](./img/Data-Science.png) -->
 
-###
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maestre7&show_icons=true)](https://github.com/maestre7)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestre7&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/maestre7)|
+| ------------- | ------------- |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maestre7&show_icons=true)](https://github.com/maestre7)
-
-###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestre7&size_weight=0.5&count_weight=0.5)](https://github.com/maestre7)
 
 ### Languages and Tools :
 <div>
