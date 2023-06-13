@@ -21,7 +21,7 @@
   &nbsp;<img src="./img/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>
   &nbsp;<img src="./img/react-original-wordmark.svg"  title="React" alt="React" width="60" height="60"/>
   &nbsp;<img src="./img/tailwindcss-original-wordmark.svg"  title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>
-  <br />
+  <br /><br />
   &nbsp;&nbsp;&nbsp;<img src="./img/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>
   &nbsp;<img src="./img/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>
   &nbsp;<img src="./img/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>
