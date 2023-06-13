@@ -1,27 +1,16 @@
-### Hi there 👋
 
-<!--
-**maestre7/maestre7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Cover](./img/Data-Science.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![Cover](./img/Data-Science.png) -->
+<div>
 
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maestre7&show_icons=true&hide_border=true)](https://github.com/maestre7)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestre7&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true)](https://github.com/maestre7)|
 | ------------- | ------------- |
-
+</div>
+<br />
 
 ### Languages and Tools :
+<br />
 <div>
   &nbsp;<img src="./img/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   &nbsp;<img src="./img/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>
