@@ -1,6 +1,6 @@
 
 
-![Cover](./img/Data-Science.png)
+<!-- ![Cover](./img/Data-Science.png) -->
 
 <div>
 
