@@ -11,7 +11,7 @@
 
 ### Languages and Tools :
 <br />
-<div>
+<div style="background-color: white;">
   <!-- Python -->
   &nbsp;&nbsp;&nbsp;<img src="./img/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   &nbsp;<img src="./img/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>
