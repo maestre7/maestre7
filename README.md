@@ -21,59 +21,62 @@
 
 <h3 align="center">Languages & Tools</h3>
 
-<p align="center"><b>Languages & Backend</b></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="./img/python-original-wordmark.svg" alt="Python" title="Python" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="52" height="52" />
-  <img src="./img/javascript-original.svg" alt="JavaScript" title="JavaScript" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="52" height="52" />
-  <img src="./img/express-original-wordmark.svg" alt="Express" title="Express" width="52" height="52" />
+  <img src="./img/python-original.svg" alt="Python" title="Python" width="48" height="48" />
+  <img src="./img/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <img src="./img/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="./img/django-plain.svg" alt="Django" title="Django" width="48" height="48" />
+  <img src="./img/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
+  <img src="./img/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy" width="48" height="48" />
+  <img src="./img/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="./img/react-original-wordmark.svg" alt="React" title="React" width="52" height="52" />
-  <img src="./img/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="52" height="52" />
-  <img src="./img/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="52" height="52" />
-  <img src="./img/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52" />
+  <img src="./img/react-original.svg" alt="React" title="React" width="48" height="48" />
+  <img src="./img/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" />
+  <img src="./img/css3-original.svg" alt="CSS3" title="CSS3" width="48" height="48" />
+  <img src="./img/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
 </p>
 
-<p align="center"><b>Data & Automation</b></p>
+<p align="center"><b>Data & Visualization</b></p>
 <p align="center">
-  <img src="./img/numpy-original-wordmark.svg" alt="NumPy" title="NumPy" width="52" height="52" />
-  <img src="./img/pandas-original-wordmark.svg" alt="Pandas" title="Pandas" width="52" height="52" />
-  <img src="./img/selenium-original.svg" alt="Selenium" title="Selenium" width="52" height="52" />
-  <img src="./img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="52" height="52" />
-  <img src="./img/Scikit_learn_logo_small.svg" alt="Scikit-learn" title="Scikit-learn" width="52" height="52" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge" alt="Scrapy" />
+  <img src="./img/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" />
+  <img src="./img/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" />
+  <img src="./img/plotly-original.svg" alt="Plotly" title="Plotly" width="48" height="48" />
+  <img src="./img/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" />
 </p>
 
 <p align="center"><b>Databases</b></p>
 <p align="center">
-  <img src="./img/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="52" height="52" />
-  <img src="./img/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="52" height="52" />
-  <img src="./img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="52" height="52" />
-  <img src="./img/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="52" height="52" />
-  <img src="./img/sequelize-original-wordmark.svg" alt="Sequelize" title="Sequelize" width="52" height="52" />
+  <img src="./img/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL / SQL" width="48" height="48" />
+  <img src="./img/mysql-original.svg" alt="MySQL" title="MySQL / SQL" width="48" height="48" />
+  <img src="./img/sqlite-original.svg" alt="SQLite" title="SQLite / SQL" width="48" height="48" />
+  <img src="./img/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
 </p>
 
-<p align="center"><b>Infrastructure & Tools</b></p>
+<p align="center"><b>Automation & Testing</b></p>
 <p align="center">
-  <img src="./img/docker-original-wordmark.svg" alt="Docker" title="Docker" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="52" height="52" />
-  <img src="./img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="52" height="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="52" height="52" />
-  <img src="./img/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="52" height="52" />
-  <img src="./img/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" width="52" height="52" />
-  <img src="./img/Vercel.svg" alt="Vercel" title="Vercel" width="52" height="52" />
+  <img src="./img/selenium-original.svg" alt="Selenium" title="Selenium" width="48" height="48" />
+  <img src="./img/pytest-original.svg" alt="pytest" title="pytest" width="48" height="48" />
+</p>
+
+<p align="center"><b>Infrastructure & DevOps</b></p>
+<p align="center">
+  <img src="./img/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
+  <img src="./img/linux-plain.svg" alt="Linux" title="Linux" width="48" height="48" />
+  <img src="./img/git-original.svg" alt="Git" title="Git" width="48" height="48" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/github-inverted-wordmark.svg" />
+    <img src="./img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="48" height="48" />
+  </picture>
+  <img src="./img/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />
+  <img src="./img/nginx-original.svg" alt="Nginx" title="Nginx" width="48" height="48" />
 </p>
 
 <p align="center"><b>AI for Development</b></p>
