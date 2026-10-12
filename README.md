@@ -2,10 +2,20 @@
 
 <!-- ![Cover](./img/Data-Science.png) -->
 
-<div>
-
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maestre7&show_icons=true&hide_border=true)](https://github.com/maestre7)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestre7&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true)](https://github.com/maestre7)|
-| ------------- | ------------- |
+<!-- Generated locally by .github/workflows/profile-stats.yml. Run it manually from Actions when needed. -->
+<div align="center">
+  <a href="https://github.com/maestre7">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+      <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub statistics" height="170" />
+    </picture>
+  </a>
+  <a href="https://github.com/maestre7">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+      <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Most used languages" height="170" />
+    </picture>
+  </a>
 </div>
 <br />
 
