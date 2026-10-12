@@ -21,11 +21,15 @@
 
 <h3 align="center">Languages & Tools</h3>
 
-<p align="center"><b>Languages & Backend</b></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="./img/python-original.svg" alt="Python" title="Python" width="48" height="48" />
   <img src="./img/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
   <img src="./img/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
   <img src="./img/django-plain.svg" alt="Django" title="Django" width="48" height="48" />
   <img src="./img/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
   <img src="./img/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy" width="48" height="48" />
@@ -40,22 +44,26 @@
   <img src="./img/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
 </p>
 
-<p align="center"><b>Data & Automation</b></p>
+<p align="center"><b>Data & Visualization</b></p>
 <p align="center">
   <img src="./img/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" />
   <img src="./img/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" />
   <img src="./img/plotly-original.svg" alt="Plotly" title="Plotly" width="48" height="48" />
-  <img src="./img/selenium-original.svg" alt="Selenium" title="Selenium" width="48" height="48" />
-  <img src="./img/pytest-original.svg" alt="pytest" title="pytest" width="48" height="48" />
   <img src="./img/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" />
 </p>
 
-<p align="center"><b>Databases & SQL</b></p>
+<p align="center"><b>Databases</b></p>
 <p align="center">
   <img src="./img/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL / SQL" width="48" height="48" />
   <img src="./img/mysql-original.svg" alt="MySQL" title="MySQL / SQL" width="48" height="48" />
   <img src="./img/sqlite-original.svg" alt="SQLite" title="SQLite / SQL" width="48" height="48" />
   <img src="./img/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
+</p>
+
+<p align="center"><b>Automation & Testing</b></p>
+<p align="center">
+  <img src="./img/selenium-original.svg" alt="Selenium" title="Selenium" width="48" height="48" />
+  <img src="./img/pytest-original.svg" alt="pytest" title="pytest" width="48" height="48" />
 </p>
 
 <p align="center"><b>Infrastructure & DevOps</b></p>
