@@ -1,10 +1,6 @@
 name: Update profile statistics
 
 on:
-  # Temporary validation trigger; removed once this branch has generated the cards.
-  push:
-    branches:
-      - feat/profile-stats-local-svg
   schedule:
     - cron: '17 3 * * *'
   workflow_dispatch:
